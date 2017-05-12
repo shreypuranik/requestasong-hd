@@ -3,8 +3,8 @@ A Request system for radio stations.
 
 # Contributors
 
-Hazmeister - Harry
-Drumking88 - Shrey
+* Hazmeister - Harry
+* Drumking88 - Shrey
 
 # Technologies used
 
